@@ -1,0 +1,3 @@
+/home/hans/Documents/projekty/aktuální terminal game/Terminal-dungeon-game/cmake-build-debug/CMakeFiles/Terminal_dungeon_game.dir
+/home/hans/Documents/projekty/aktuální terminal game/Terminal-dungeon-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hans/Documents/projekty/aktuální terminal game/Terminal-dungeon-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

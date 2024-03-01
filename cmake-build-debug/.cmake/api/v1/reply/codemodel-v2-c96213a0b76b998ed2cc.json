@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Terminal_dungeon_game",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Terminal_dungeon_game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Terminal_dungeon_game-Debug-2cd2693b1548013466a7.json",
+					"name" : "Terminal_dungeon_game",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hans/Documents/projekty/aktu\u00e1ln\u00ed terminal game/Terminal-dungeon-game/cmake-build-debug",
+		"source" : "/home/hans/Documents/projekty/aktu\u00e1ln\u00ed terminal game/Terminal-dungeon-game"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
