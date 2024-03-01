@@ -61,6 +61,18 @@ build CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o: CXX_COMPILER__Termi
   OBJECT_DIR = CMakeFiles/Terminal_dungeon_game.dir
   OBJECT_FILE_DIR = CMakeFiles/Terminal_dungeon_game.dir
 
+build CMakeFiles/Terminal_dungeon_game.dir/Player.cpp.o: CXX_COMPILER__Terminal_dungeon_game_unscanned_Debug /home/hans/Documents/projekty/aktuální$ terminal$ game/Terminal-dungeon-game/Player.cpp || cmake_object_order_depends_target_Terminal_dungeon_game
+  DEP_FILE = CMakeFiles/Terminal_dungeon_game.dir/Player.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/Terminal_dungeon_game.dir
+  OBJECT_FILE_DIR = CMakeFiles/Terminal_dungeon_game.dir
+
+build CMakeFiles/Terminal_dungeon_game.dir/GameReports.cpp.o: CXX_COMPILER__Terminal_dungeon_game_unscanned_Debug /home/hans/Documents/projekty/aktuální$ terminal$ game/Terminal-dungeon-game/GameReports.cpp || cmake_object_order_depends_target_Terminal_dungeon_game
+  DEP_FILE = CMakeFiles/Terminal_dungeon_game.dir/GameReports.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/Terminal_dungeon_game.dir
+  OBJECT_FILE_DIR = CMakeFiles/Terminal_dungeon_game.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Terminal_dungeon_game
@@ -69,7 +81,7 @@ build CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o: CXX_COMPILER__Termi
 #############################################
 # Link the executable Terminal_dungeon_game
 
-build Terminal_dungeon_game: CXX_EXECUTABLE_LINKER__Terminal_dungeon_game_Debug CMakeFiles/Terminal_dungeon_game.dir/main.cpp.o CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o
+build Terminal_dungeon_game: CXX_EXECUTABLE_LINKER__Terminal_dungeon_game_Debug CMakeFiles/Terminal_dungeon_game.dir/main.cpp.o CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o CMakeFiles/Terminal_dungeon_game.dir/Player.cpp.o CMakeFiles/Terminal_dungeon_game.dir/GameReports.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Terminal_dungeon_game.dir
   POST_BUILD = :

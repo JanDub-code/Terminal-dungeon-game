@@ -5,6 +5,10 @@
 #ifndef TERMINAL_DUNGEON_GAME_GAMEENGINE_H
 #define TERMINAL_DUNGEON_GAME_GAMEENGINE_H
 
+#include "Player.h"
+#include "GameEngine.h"
+#include "GameReports.h"
+
 class GameEngine {
 public:
     static GameEngine& getInstance();
@@ -17,6 +21,9 @@ public:
     void start();
 
 private:
+    Player m_player;
+    GameReports m_gameReport;
+    bool m_gameOver;
     GameEngine();
 
     ~GameEngine();

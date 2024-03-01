@@ -1,8 +1,19 @@
 # ninja log v5
-179	208	1709323898679114954	Terminal_dungeon_game	fc9cb99c4960f49b
-0	179	1709323898640114293	CMakeFiles/Terminal_dungeon_game.dir/main.cpp.o	3bef89515e427648
-0	18	1709324144435281299	CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o	bf20f3214adb217
-0	165	1709324144582283791	CMakeFiles/Terminal_dungeon_game.dir/main.cpp.o	3bef89515e427648
-165	194	1709324144612284300	Terminal_dungeon_game	c867aa61092c440e
-0	172	1709324177049834223	CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o	bf20f3214adb217
-172	201	1709324177089834900	Terminal_dungeon_game	c867aa61092c440e
+163	203	1709326655424972277	Terminal_dungeon_game	e3661c0d7857ffef
+0	156	1709325831235079122	CMakeFiles/Terminal_dungeon_game.dir/main.cpp.o	3bef89515e427648
+1	166	1709325573061038107	CMakeFiles/Terminal_dungeon_game.dir/Player.cpp.o	47500a94c2b17f38
+1	163	1709326655383971673	CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o	bf20f3214adb217
+0	160	1709327212984189644	CMakeFiles/Terminal_dungeon_game.dir/main.cpp.o	3bef89515e427648
+0	166	1709327212990189732	CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o	bf20f3214adb217
+1	201	1709327212990189732	CMakeFiles/Terminal_dungeon_game.dir/GameReports.cpp.o	a8ddc6c2795e2f1a
+201	232	1709327213058190734	Terminal_dungeon_game	22eaecf6551e871c
+0	165	1709327746547412058	CMakeFiles/Terminal_dungeon_game.dir/main.cpp.o	3bef89515e427648
+1	171	1709327746552412086	CMakeFiles/Terminal_dungeon_game.dir/GameReports.cpp.o	a8ddc6c2795e2f1a
+1	175	1709327746557412114	CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o	bf20f3214adb217
+0	164	1709327803879733082	CMakeFiles/Terminal_dungeon_game.dir/main.cpp.o	3bef89515e427648
+0	167	1709327803882733099	CMakeFiles/Terminal_dungeon_game.dir/GameReports.cpp.o	a8ddc6c2795e2f1a
+0	169	1709327803884733110	CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o	bf20f3214adb217
+169	199	1709327803915733284	Terminal_dungeon_game	22eaecf6551e871c
+1	167	1709327839178930728	CMakeFiles/Terminal_dungeon_game.dir/GameReports.cpp.o	a8ddc6c2795e2f1a
+0	171	1709327839191930800	CMakeFiles/Terminal_dungeon_game.dir/GameEngine.cpp.o	bf20f3214adb217
+172	200	1709327839221930968	Terminal_dungeon_game	22eaecf6551e871c
