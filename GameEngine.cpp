@@ -10,8 +10,6 @@ GameEngine& GameEngine::getInstance() {
 
 void GameEngine::start() {
     std::cout <<"Engine running"<<std::endl;
-    std::cout<<"Welcome to the game!"<<std::endl;
-    std::cout<<"What do you wanna do?"<<std::endl;
     while(!m_gameOver){
         char decision=m_gameReport.gameStart();
         if(decision=='k' or decision=='K'){
@@ -32,4 +30,9 @@ GameEngine::GameEngine() {
 }
 
 GameEngine::~GameEngine() {
+    std::cout <<"Engine turning off"<<std::endl;
+}
+
+void GameEngine::gameOver() {
+    m_gameOver=true;
 }

@@ -19,6 +19,7 @@ public:
     GameEngine& operator=(GameEngine&&) = delete;
 
     void start();
+    void gameOver();
 
 private:
     Player m_player;

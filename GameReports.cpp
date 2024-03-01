@@ -8,8 +8,10 @@
 GameReports::GameReports() {}
 
 char GameReports::gameStart() {
-    std::cout<<"For ending the game press k or K"<<std::endl;
+    std::cout<<"Welcome to the game!"<<std::endl;
+    std::cout<<"What do you wanna do?"<<std::endl;
     std::cout<<"For start press s or S"<<std::endl;
+    std::cout<<"For ending the game press k or K"<<std::endl;
     char answer;
     std::cin>>answer;
     do {
